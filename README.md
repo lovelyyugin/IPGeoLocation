@@ -4,7 +4,8 @@
 * Powered by [ip-api](http://ip-api.com/docs/)
 
 
-
+## Author: github.com/lovelyyugin
+## Twitter: twitter.com/lovelyyugin
 
 
 
